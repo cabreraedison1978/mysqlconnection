@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t/NDsSaX9EBEvpv1X/CoxbvdvTKqF9yyeos7Dp0Sgg4=",
+  "Source": "MiWebServiceMysql",
+  "BasePath": "_content/MiWebServiceMysql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
